@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-sharma-13&show_icons=true&locale=en" alt="alok-sharma-13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-sharma-13&" alt="alok-sharma-13" /></p>
-<p><img align="center" src="https://github.com/Alok-Sharma-13/Alok-Sharma-13/blob/main/giph.gif&" alt="alok-sharma-13" /></p>
+<!-- <p><img align="center" src="https://github.com/Alok-Sharma-13/Alok-Sharma-13/blob/main/giph.gif&" alt="alok-sharma-13" /></p> -->
